@@ -6,6 +6,6 @@ y
 
 m <- matrix(c(1,2,4,1), ncol=2) #Matrix Operation
 
-m
+m #output the matrix 
 
-
+solve(m)
