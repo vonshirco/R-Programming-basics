@@ -13,6 +13,3 @@ years = 1990:2003
 #rep() command to create data that follow a regular pattern
 b = rep(1,5)
 c = rep(1:2,4)
-
-
-
