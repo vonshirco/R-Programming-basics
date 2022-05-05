@@ -10,5 +10,3 @@ print(u)
 
 w <- rep(2,5) #generates a vector (2,2,2,2,2,)
 print(w)
-
-
